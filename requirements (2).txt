@@ -1,0 +1,4 @@
+streamlit
+pandas
+numpy
+# 以及其他你用到的库，如 mne, scipy 等
